@@ -74,5 +74,7 @@ isort>=5.13.0
 mypy>=1.11.0
 
 # Jupyter (optional for experimentation)
-jupyter>=1.1.1
 ipykernel>=6.29.0
+
+# UI
+streamlit
